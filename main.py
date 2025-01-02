@@ -4,8 +4,8 @@ import random
 import smtplib
 import datetime as dt
 
-MY_EMAIL = "pramodr2101@gmail.com"
-PASSWORD = "elsc lfdu etne fdwe"
+MY_EMAIL = "xyz@gmail.com"
+PASSWORD = "your_password"
 PLACEHOLDER = "[NAME]"
 
 today = (dt.datetime.now().month, dt.datetime.now().day)
